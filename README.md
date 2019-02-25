@@ -1,3 +1,9 @@
+# Migrated to GitLab
+
+This repository has migrated to https://gitlab.com/r-packages/rock.
+
+-------------
+
 # Reproducible Open Coding Kit (ROCK)
 
 The Reproducible Open Coding Kit (ROCK, and this package, `rock`)
